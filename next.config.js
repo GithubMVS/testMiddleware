@@ -1,7 +1,6 @@
 module.exports = {
   reactStrictMode: true,
   experimental: {
-    serverComponents: true,
     urlImports: [
       'https://cdn.skypack.dev',
       "https://framer.com/m/",
